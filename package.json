@@ -1,5 +1,5 @@
 {
-  "name": "post-message-bus",
+  "name": "post-message-simple-bus",
   "version": "1.0.1",
   "description": "",
   "files": ["dist"], 
@@ -13,7 +13,7 @@
     "dev": "tsc -w && node dist/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "ferhannah",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^22.13.10",
